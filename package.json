@@ -1,0 +1,21 @@
+{
+  "name": "prettier-config-trucknet-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trucknet-io/prettier-config-trucknet-io.git"
+  },
+  "author": "goooseman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trucknet-io/prettier-config-trucknet-io/issues"
+  },
+  "homepage": "https://github.com/trucknet-io/prettier-config-trucknet-io#readme",
+  "dependencies": {
+    "prettier": "^1.15.3"
+  }
+}
