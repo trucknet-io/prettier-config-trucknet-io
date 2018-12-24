@@ -1,7 +1,7 @@
 {
   "name": "prettier-config-trucknet-io",
   "version": "1.0.0",
-  "description": "",
+  "description": "General prettier config for all Trucknet projects.",
   "main": "index.js",
   "scripts": {
   },
