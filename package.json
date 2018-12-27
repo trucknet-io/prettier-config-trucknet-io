@@ -1,10 +1,9 @@
 {
   "name": "prettier-config-trucknet-io",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "General prettier config for all Trucknet projects.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trucknet-io/prettier-config-trucknet-io.git"
